@@ -30,7 +30,3 @@ A lightweight, fast, and concurrent port scanner built in **Go**, inspired by Nm
   👉 [Install Go](https://golang.org/dl/)
 
 ### 📦 Clone the Repository
-
-```bash
-git clone https://github.com/your-username/GoPortScanner.git
-cd GoPortScanner
